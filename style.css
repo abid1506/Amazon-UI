@@ -1,0 +1,80 @@
+.navv {
+  color: aliceblue;
+}
+ul li p {
+  font-size: 1.2rem;
+  margin-top: 0px;
+  text-decoration: none;
+}
+
+.jumm {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.imghold {
+  background: #f1ece8;
+  padding: 4px;
+}
+.jumm h2 {
+  font-size: 16px;
+}
+
+.jumm p {
+  font-size: 16px;
+  color: rgb(2, 74, 39);
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.jumm .items {
+  border: 1px solid #ebebeb;
+  border-radius: 3%;
+  background-color: white;
+}
+
+.foot-panel1 {
+  background-color: #37475a;
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85rem;
+}
+
+.foot-panel2 {
+  background-color: #222f3d;
+  color: white;
+}
+
+.foot-panel3 {
+  background-color: #0f1111;
+  color: white;
+
+  height: 80px;
+  text-align: center;
+}
+
+.copyright {
+  padding: 15px;
+}
+
+.nav-cart i {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.nav-cart {
+  font-size: 0.65;
+  font-weight: 700;
+  color: white;
+}
+
+.foot-panel2 ul, li {
+  list-style-type: none;
+}
+
+.foot-panel2 ul li p{
+  color: aquamarine;
+}
